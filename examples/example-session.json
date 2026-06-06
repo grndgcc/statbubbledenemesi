@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "extension": "Stat Bubbles",
+  "exportedAt": "2026-06-06T00:00:00.000Z",
+  "tokenCount": 1,
+  "tokens": [
+    {
+      "id": "replace-with-owlbear-token-id",
+      "name": "Sir Example",
+      "layer": "CHARACTER",
+      "stats": {
+        "str": "12",
+        "dex": "14",
+        "con": "11",
+        "wis": "10",
+        "int": "13",
+        "cha": "15",
+        "diplomacy": "+4",
+        "martial": "+1",
+        "economy": "+2",
+        "intrigue": "+0",
+        "learning": "+3",
+        "prowess": "+2",
+        "prestige": "80",
+        "appearance": "Good",
+        "magicItem": "Ring"
+      }
+    }
+  ]
+}
