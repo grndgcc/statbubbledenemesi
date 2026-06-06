@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Stat Bubbles icon">
+  <rect width="64" height="64" rx="16" fill="#111827"/>
+  <circle cx="22" cy="24" r="11" fill="#2563eb"/>
+  <circle cx="42" cy="24" r="11" fill="#7c3aed"/>
+  <circle cx="32" cy="42" r="11" fill="#059669"/>
+  <text x="22" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="white">S</text>
+  <text x="42" y="28" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="white">D</text>
+  <text x="32" y="46" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="white">M</text>
+</svg>

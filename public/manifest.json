@@ -1,0 +1,17 @@
+{
+  "name": "Stat Bubbles",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Hover stat bubbles for Owlbear Rodeo character tokens.",
+  "author": "Grond Gecici",
+  "homepage_url": "https://github.com/grndgcc/owlbear-stat-bubbles",
+  "icon": "icon.svg",
+  "action": {
+    "title": "Stat Bubbles",
+    "icon": "icon.svg",
+    "popover": "index.html",
+    "height": 720,
+    "width": 420
+  },
+  "background_url": "background.html"
+}
